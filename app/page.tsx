@@ -200,7 +200,7 @@ export default function PostalGameWebsite() {
                 <CardHeader>
                   <CardTitle className="text-2xl text-red-400">Development Competition</CardTitle>
                   <CardDescription className="text-lg text-gray-300">
-                    Four talented developers unite to create the ultimate Postal 2 sub-game
+                    We created the game not just for winning but for fun
                   </CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-6">
@@ -209,7 +209,7 @@ export default function PostalGameWebsite() {
                     <ul className="space-y-2 text-gray-300">
                       <li className="flex items-start gap-2">
                         <span className="text-red-500">•</span>
-                        Create a sub-game inspired by Postal 2 featuring "The Baddies"
+                        Create a sub-game inspired by Postal featuring "The Baddies"
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-500">•</span>
@@ -257,9 +257,9 @@ export default function PostalGameWebsite() {
       {/* Footer */}
       <footer className="border-t border-red-800/30 bg-black/50 py-8 px-4">
         <div className="container mx-auto text-center">
-          <p className="text-gray-400 mb-4">© 2024 Postal 2: The Baddies Development Team. All rights reserved.</p>
+          <p className="text-gray-400 mb-4">© 2024 Postal : Tomexo, Danykass, Axqzme, Aszazza. All rights reserved.</p>
           <p className="text-sm text-gray-500">
-            This is a fan-made project and is not affiliated with Running With Scissors.
+            This is a fan-made project and is not or maybe kind of affiliated with Running With Scissors idfk.
           </p>
         </div>
       </footer>
