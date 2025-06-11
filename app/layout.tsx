@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Postal baddies',
   description: 'Postal dud plushie',
-  generator: 'v0.dev',
+  generator: 'danykass',
 }
 
 export default function RootLayout({
