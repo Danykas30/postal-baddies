@@ -259,7 +259,8 @@ export default function PostalGameWebsite() {
         <div className="container mx-auto text-center">
           <p className="text-gray-400 mb-4">© 2024 Postal : Tomexo, Danykass, Axqzme, Aszazza. All rights reserved.</p>
           <p className="text-sm text-gray-500">
-            This is a fan-made project and is not or maybe kind of affiliated with Running With Scissors idfk.
+            This is a fan-made project and is not or maybe kind of affiliated with Running With Scissors idfk. <br>
+            rws pls give us the plushi and mayb we wil upload thy game to steam for 100 damn dollars<br>note* we are over 18 years old
           </p>
         </div>
       </footer>
