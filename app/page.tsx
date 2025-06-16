@@ -19,7 +19,7 @@ export default function PostalGameWebsite() {
       avatar: "T",
     },
     {
-      name: "danykas",
+      name: "danyk(ass)",
       role: "3D Modeling",
       icon: Users,
       description: "Creating the twisted characters and environments",
@@ -34,10 +34,10 @@ export default function PostalGameWebsite() {
     },
     {
       name: "axqzme",
-      role: "Sound FX",
+      role: "Emotional support",
       icon: Volume2,
-      description: "Additional sound design and audio engineering",
-      avatar: "X",
+      description: "Bro just here for us",
+      avatar: "Axo",
     },
   ]
 
