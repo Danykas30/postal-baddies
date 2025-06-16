@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   icons: {
     icon: 'https://danykas30.github.io/Danykas3/milk.ico',
   },
+   other: {
+    'google-site-verification': 'VAtw_swlB0JSU-hGt9CsIYpc5bsoCLR5gzNkswwlNGo',
+  },
 };
 
 export default function RootLayout({
