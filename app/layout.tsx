@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Postalized: The Mission',
   description: 'Postal dud plushie',
-  generator: 'v0',
+  generator: 'v0.dev',
 }
 
 export default function RootLayout({
