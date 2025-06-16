@@ -5,7 +5,10 @@ export const metadata: Metadata = {
   title: 'Postalized: The Mission',
   description: 'Postal dud plushie',
   generator: 'v0.dev',
-}
+  icons: {
+    icon: '/Images/pixilart-drawing (3) (1).ico',
+  },
+};
 
 export default function RootLayout({
   children,
@@ -14,6 +17,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/Images/pixilart-drawing (3) (1).ico" type="image/x-icon" />
+      </head>
       <body>{children}</body>
     </html>
   )
