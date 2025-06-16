@@ -49,7 +49,8 @@ export default function PostalGameWebsite() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <Gamepad2 className="h-8 w-8 text-red-500" />
-              <h1 className="text-2xl font-bold">POSTAL 2: THE BADDIES</h1>
+              <h1 className="text-2xl font-bold">Postalized: The Mission
+ </h1>
             </div>
             <nav className="hidden md:flex gap-6">
               <button
@@ -81,7 +82,7 @@ export default function PostalGameWebsite() {
           <div className="mb-8">
             <Badge className="mb-4 bg-red-600 hover:bg-red-700 text-white">🎮 GAME DEVELOPMENT CHALLENGE</Badge>
             <h2 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent">
-              THE BADDIES
+              Postalized: The Mission
             </h2>
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
               A twisted sub-game inspired by Postal 2, where chaos meets creativity. Four developers compete for the
@@ -92,7 +93,7 @@ export default function PostalGameWebsite() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white">
               <Download className="mr-2 h-5 w-5" />
-              Play Now
+              Play Now (not able this moment)
             </Button>
             <Button
               size="lg"
@@ -100,7 +101,7 @@ export default function PostalGameWebsite() {
               className="border-red-500 text-red-400 hover:bg-red-500 hover:text-white"
             >
               <ExternalLink className="mr-2 h-5 w-5" />
-              View Trailer
+              View Trailer (not able to do so)
             </Button>
           </div>
         </div>
@@ -123,13 +124,13 @@ export default function PostalGameWebsite() {
                     <Star className="h-5 w-5 text-yellow-500 mt-1" />
                     <div>
                       <h4 className="font-semibold">Chaotic Gameplay</h4>
-                      <p className="text-gray-400">Experience the mayhem with unique baddie characters</p>
+                      <p className="text-gray-400">Experience the mayhem with unique Postalized: The Mission characters</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
                     <Star className="h-5 w-5 text-yellow-500 mt-1" />
                     <div>
-                      <h4 className="font-semibold">Custom 3D Models</h4>
+                      <h4 className="font-semibold">Custom 2D Models</h4>
                       <p className="text-gray-400">Hand-crafted characters and environments</p>
                     </div>
                   </div>
@@ -257,9 +258,9 @@ export default function PostalGameWebsite() {
       {/* Footer */}
       <footer className="border-t border-red-800/30 bg-black/50 py-8 px-4">
         <div className="container mx-auto text-center">
-          <p className="text-gray-400 mb-4">© 2024 Postal : Tomexo, Danykass, Axqzme, Aszazza. All rights reserved.</p>
+          <p className="text-gray-400 mb-4">© 2025 Postalized: The Mission: Tomexo, Danykass, Axqzme, Aszazza. All rights reserved.</p>
           <p className="text-sm text-gray-500">
-            This is a fan-made project and is not or maybe kind of affiliated with Running With Scissors idfk. <br>
+            This is a fan-made project and is not or maybe kind of affiliated with Running With Scissors idfk.
             rws pls give us the plushi and mayb we wil upload thy game to steam for 100 damn dollars<br>note* we are over 18 years old
           </p>
         </div>
