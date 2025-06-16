@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Postal baddies',
+  title: 'Postalized: The Mission',
   description: 'Postal dud plushie',
   generator: 'danykass',
 }
