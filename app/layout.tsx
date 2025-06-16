@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Postalized: The Mission',
-  description: 'Postal dud plushie',
+  description: 'Game challange by rws to get Postal dud plushie',
   generator: 'v0.dev',
   icons: {
     icon: 'https://danykas30.github.io/Danykas3/milk.ico',
