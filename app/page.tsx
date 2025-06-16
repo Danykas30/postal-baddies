@@ -20,7 +20,7 @@ export default function PostalGameWebsite() {
     },
     {
       name: "danyk(ass)",
-      role: "3D Modeling",
+      role: "2D Modeling",
       icon: Users,
       description: "Creating the twisted characters and environments",
       avatar: "D",
@@ -261,7 +261,7 @@ export default function PostalGameWebsite() {
           <p className="text-gray-400 mb-4">© 2025 Postalized: The Mission: Tomexo, Danykass, Axqzme, Aszazza. All rights reserved.</p>
           <p className="text-sm text-gray-500">
             This is a fan-made project and is not or maybe kind of affiliated with Running With Scissors idfk.
-            rws pls give us the plushi and mayb we wil upload thy game to steam for 100 damn dollars<br>note* we are over 18 years old
+            rws pls give us the plushi and mayb we wil upload thy game to steam for 100 damn dollars note* we are over 18 years old 
           </p>
         </div>
       </footer>
