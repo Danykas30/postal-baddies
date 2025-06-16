@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Postal dud plushie',
   generator: 'v0.dev',
   icons: {
-    icon: 'https://postalbaddies-tomexo.vercel.app/Images/milk.ico',
+    icon: 'https://danykas30.github.io/Danykas3/milk.ico',
   },
 };
 
@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="https://postalbaddies-tomexo.vercel.app/Images/milk.ico" type="image/x-icon" />
+        <link rel="icon" href="https://danykas30.github.io/Danykas3/milk.ico" type="image/x-icon" />
       </head>
       <body>{children}</body>
     </html>
